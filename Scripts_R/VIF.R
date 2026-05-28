@@ -1,4 +1,4 @@
-# 1. Instalar y cargar librerías necesarias
+## 1. Instalar y cargar librerías necesarias
 if(!require(usdm)) install.packages("usdm")
 if(!require(terra)) install.packages("terra")
 
