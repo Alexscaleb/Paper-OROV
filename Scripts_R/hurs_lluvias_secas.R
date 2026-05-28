@@ -1,6 +1,6 @@
 library(terra)
 
-# Carpeta donde están tus capas hurs en formato .asc 
+## Carpeta donde están tus capas hurs en formato .asc 
 dir_hurs <- "../variables_M_biomas/"   # <--- cámbialo
 
 # Detectar todos los archivos que comienzan con "hurs" y terminan en .asc 
