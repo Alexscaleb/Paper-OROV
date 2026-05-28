@@ -1,4 +1,4 @@
-## Análisis de colinealidad y PCA para variables ambientales de Oropouche
+### Análisis de colinealidad y PCA para variables ambientales de Oropouche
 
 # Limpieza del entorno
 rm(list = ls())
