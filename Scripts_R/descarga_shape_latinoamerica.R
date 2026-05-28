@@ -4,7 +4,7 @@ library(rnaturalearth)
 library(rnaturalearthdata)
 library(dplyr)
 
-# Descargar todos los países del mundo
+## Descargar todos los países del mundo
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
 # Seleccionar solo América Latina y el Caribe
