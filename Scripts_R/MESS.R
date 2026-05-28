@@ -1,4 +1,4 @@
-# 1. Cargar librerías necesarias
+## 1. Cargar librerías necesarias
 library(terra)
 library(dismo) # Para la función mess
 
