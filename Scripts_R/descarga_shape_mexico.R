@@ -1,4 +1,4 @@
-# instalar paquetes si no los tienes
+## instalar paquetes si no los tienes
 install.packages(c("sf", "rnaturalearth", "rnaturalearthdata"))
 
 library(sf)
